@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Qasim333, I'm a reliable, easy-to-communicate with the following qualities and skills:
-- 👀 I’m interested in Asp.net / Asp.net MVC / ASP.NET Core / MS SQL...
-- 🌱 I’m  also working with Angular/ TypeScript & MERN Stack
-- 📫 How to reach me : email me at : Qasim_ramzan@hotmail.com, Or skype : Qasim.cw
+- 👀 I’m working in <b>C# / Asp.net / Asp.net MVC / ASP.NET Core / MS SQL / PostgreSQL</b>
+- 🌱 I’m  also working with <b>Jquree / Angular/ React / Node / Javascript / TypeScript</b>
+- 👉 Pretty Much Worked on <b>Entity Framework / Dapper.net / ADO.Net / LINQ / Views / Stored Procedures / DB Functions</b>
+- 📫 How to reach me : email me at : <b>Qasim_ramzan@hotmail.com</b>, Or skype : <b>Qasim.cw</b>
 
 - Back-End with 8 years of experience in Asp.net / Asp.net MVC / ASP.NET Core / Ms SQL / Entity Framework | Dapper.Net | ADO.net | LINQ
 - Front-End with 8 years of experience in pure HTML & HTML5 / CSS & CSS3 / JavaScript & jQuery / Bootstrap & Foundation / Telerik UI and Customization 
